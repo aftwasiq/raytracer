@@ -1,11 +1,11 @@
 # Raytracer v1.1
 A simple raytracing implemention using C++. Currently, it is able to render a sphere and apply properties such as diffusion and anti-aliasing. 
 
-## `Current Render` 
+## `current render` 
 
 ![testing](https://github.com/aftwasiq/raytracer/assets/97777254/cd35e263-fffb-4d52-b22b-cbb9bba4ccf5)
 
-## `Render w/o diffusion`
+## `render without diffusion`
 
 ![download](https://github.com/aftwasiq/raytracer/assets/97777254/7c43faf5-c9fe-4be6-8368-2e5c8c01f338)
 
